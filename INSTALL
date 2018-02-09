@@ -1,0 +1,9 @@
+Building DolartiFx
+
+See doc/readme-qt.rst for instructions on building Dolartifx-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DolartiFx.
+
+See doc/build-*.txt for instructions on building dolartifx,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dolartifx.
